@@ -1,4 +1,4 @@
-Creates the following in one resource group:
+Task is create resources using terraform
 
 - Virtual network with two subnets (vm, aks)
 - Linux VM (Ubuntu 22.04) with a public IP, SSH restricted to your IP
